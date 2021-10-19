@@ -1,4 +1,4 @@
-<a href="#"><img height="auto" width="auto" src="https://drive.google.com/uc?export=view&id=1ZETeMA6RUcRq-94Vmfdp1siqZtHZaHN3"/></a>
+<a href="#"><img height="auto" width="auto" src="https://drive.google.com/uc?export=view&id=10OJaytd8GsZOaqKo-XnAxCqzpCoWZIsB"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gayan Kodithuwakku</h1>
 <h3 align="center">~ IT Undergraduate <br/>
@@ -85,7 +85,7 @@ A Freelance Developer | Cyber Security Enthusiast | Designer | Content Creator |
 <p align="left">
 
 <a href = "https://dev.to/gayankod"><img src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2018/09/dev-community.png?fit=5000%2C2941&ssl=1" height="50px"/></a>
-<a href = "https://gayankod.medium.com/"><img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/762fd4bd-7d50-4ac3-80d3-bad44702bf87-1604363697348.png" height="50px"/></a>
+<a href = "https://gayankod.medium.com/"><img src="https://drive.google.com/uc?export=view&id=1Be_hiHGXT3N7DrUV3UgolDAYc0TLlFrJ" height="50px"/></a>
 <a href = "https://gayankod.hashnode.dev/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" height="50px"/></a>
 
 </p>
