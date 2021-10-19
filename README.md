@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://drive.google.com/uc?export=view&id=1ygj3BVMCPT3J8EU8lCobDtZT2QFeo_F1"/></a>
+<a href="#"><center><img height="200px" src="https://drive.google.com/uc?export=view&id=1ygj3BVMCPT3J8EU8lCobDtZT2QFeo_F1"/></center></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gayan Kodithuwakku</h1>
 <h3 align="center">~ IT Undergraduate <br/>
