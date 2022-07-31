@@ -18,7 +18,11 @@ Nice to meet you, I'm Gayan Kodithuwakku.
 
 ## My Weapons 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayankod&theme=react&langs_count=8)](https://github.com/gayankod/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayankod&theme=react&langs_count=8)](https://github.com/gayankod/github-readme-stats) -->
+ <a href="https://github.com/GayanKod/github-readme-stats"><img alt="Gayan Kodithuwakku's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayanKod&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 
 <br>
 
@@ -63,11 +67,12 @@ Nice to meet you, I'm Gayan Kodithuwakku.
  
 ## Github Status 🏆
 
-<img  src="https://github-readme-stats.vercel.app/api?username=gayankod&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=GayanKod&theme=react" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=gayankod&count_private=true&show_icons=true&hide_border=true&theme=react&hide_border=true&bg_color=0D1117" width="48%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=GayanKod&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="48%" >
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=GayanKod&theme=react-dark)
+![github graph](https://activity-graph.herokuapp.com/graph?username=GayanKod&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true")
 <br>
 
 <p align="center">Wanna Know me More?</p>
