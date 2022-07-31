@@ -19,7 +19,7 @@ Nice to meet you, I'm Gayan Kodithuwakku.
 ## My Weapons 🌟
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayankod&theme=react&langs_count=8)](https://github.com/gayankod/github-readme-stats) -->
- <a href="https://github.com/GayanKod/github-readme-stats"><img alt="Gayan Kodithuwakku's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayanKod&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <a href="https://github.com/GayanKod/github-readme-stats"><img alt="Gayan Kodithuwakku's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayanKod&langs_count=8&count_private=true&layout=compact&theme=react" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
