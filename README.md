@@ -31,7 +31,8 @@ Nice to meet you, I'm Gayan Kodithuwakku.
 <p align="left">
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40" height="40"/></a>&nbsp; &nbsp;
     <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" width="40" height="40"/> </a>&nbsp; &nbsp;
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40"/> </a>&nbsp; &nbsp;
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" width="40" height="40"/> </a>
     <br />
     <br />
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> &nbsp; &nbsp;
