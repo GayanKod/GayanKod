@@ -11,7 +11,7 @@ Nice to meet you, I'm Gayan Kodithuwakku.
 - 🕵🏻‍♂️ Self Learning Cyber Security and Digital Forensics
 - 🎯 Goal : Give my maximum for the people for their good 
 - 💌 Fun Facts : 
-    - Music Lover but can't' sing or play 🐼 
+    - Music Lover but can't sing or play 🐼 
     - Sherlock Holmes addictor 🙂
     
 <br>
