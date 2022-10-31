@@ -13,10 +13,12 @@ Nice to meet you, I'm Gayan Kodithuwakku.
 - 💌 Fun Facts : 
     - Music Lover but can't sing or play 🐼 
     - Sherlock Holmes addictor 🙂
-    
-<br>
-[![@gayankod's Holopin board](https://holopin.me/gayankod)](https://holopin.io/@gayankod)
-<br>
+
+<br/>
+
+## My Latest Hacktoberfest 🎃 Contributions
+![@gayankod's Holopin board](https://holopin.me/gayankod)
+
 
 
 ## My Weapons 🌟
