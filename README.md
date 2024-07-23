@@ -4,15 +4,15 @@ Nice to meet you, I'm Gayan Kodithuwakku.
 
 ## Who Am I? 🤠
 
-- 🤓 IT Undergraduate at University of Moratuwa 
-- 🎭Cyber Security Enthusiast
-- ⚡Designer, Content Creator
+- 🤓 IT Undergraduate at the University of Moratuwa 
+- 🎭 Cyber Security Enthusiast
+- ⚡ Designer, Content Creator
 - 👩‍💻 Working on Web & App Development 
 - 🕵🏻‍♂️ Self Learning Cyber Security and Digital Forensics
-- 🎯 Goal : Give my maximum for the people for their good 
+- 🎯 Goal: Give my utmost for people and society to make it a better place 
 - 💌 Fun Facts : 
-    - Music Lover but can't sing or play 🐼 
-    - Sherlock Holmes addictor 🙂
+    - Techie, but able to cook delicious meals 🐼 
+    - Sherlock Holmes addict 🙂
 
 <br/>
 
